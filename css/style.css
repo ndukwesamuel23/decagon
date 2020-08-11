@@ -42,7 +42,7 @@
 }
 
 .home_sec2_p1{
-font-size: 65px;
+ font-size: 65px;
  color: white;
  font-weight: bold;
  margin-bottom: -30px;
@@ -272,6 +272,120 @@ footer{
 	background: white;
 }
 /*home footer section end here*/
+
+/* 
+capabilit.html */
+
+/*the first section of the Capabilities*/
+.Capabilities_sec2{
+	background-color: black;
+	height: 500px;
+}
+
+.Capabilities_sec2_1{
+
+}
+
+.Capabilities_sec2_p1{
+	padding-top: 150px;
+	 font-size: 65px;
+ color: white;
+ font-weight: bold;
+}
+
+
+
+.inside_p2{
+	color: white;
+}
+.Capabilities_sec2_p2{
+	font-size: 65px;
+	color: #B8D344;
+	font-weight: bold;
+	margin-top: -30px;
+} 
+
+/*the first section end here*/
+
+/*the second section start here*/
+
+.Capabilities_sec3{
+	background: white;
+}
+
+.Capabilities_sec3_2,.Capabilities_sec3_1{
+	margin-top: 100px;
+}
+
+.Capabilities_small1{
+	font-weight: bold;
+	color: #68A24E;
+}
+
+.Capabilities_sec3_p1{
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.Capabilities_sec3_p2{
+	margin-top: 40px;
+	line-height:2rem;
+	text-align: justify;
+	margin-right: 40px; 
+}
+.Capabilities_sec3_img{
+	width: 100%;
+}
+.Capabilities_sec3_img_p{
+	text-align: center;
+}
+
+/*the sectiom section end here*/
+
+/*the third section start here*/
+
+.Capabilities_sec4{
+/*	the third section is same with the second*/
+}
+
+.Capabilities_sec4_2{
+	padding-top: 150px;
+}
+
+/*the third section end here*/
+
+
+/*the forth section start here*/
+
+.Capabilities_sec5{
+/*	the forth section is same with the second*/
+}
+
+/*the forth section end here*/
+
+
+/*
+
+/*about section  start here*/
+
+.about_sec1{
+	background: #F5F9E7;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 100px;
+}
+
+.about_sec1_p1{
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.about_sec1_p2{
+	margin-top: -10px;
+
+}
+
+
 
 
 
